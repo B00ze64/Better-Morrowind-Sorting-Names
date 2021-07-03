@@ -7,7 +7,7 @@ This is a MWSE script that renames some items in Morrowind so that they sort tog
 
 Better Sorting Names tries to help with that. It tries to keep sets together, as per default Morrowind (like all Glass Armor in a group), but also tries to put same-kind items together, like all Longswords together, and all Axes together, etc. Some obvious candidates for renaming are the bracers and pauldrons, which are named `Left Pauldron` and `Right Pauldron` in Morrowind, meaning they are not together in your inventory. To fix this, Better Sorting Names renames them to `Pauldron Left` and `Pauldron Right` so that they group. Other obvious candidates are Potions, which now group by Effect and not by Quality (if you decide to enable this). Soulgems, and Clothing, especially from [Clothiers of Vvardenfell](https://www.nexusmods.com/morrowind/mods/50007), also benefit greatly.
 
-Keys is another item in dire need of renaming, but they are not included in Better Sorting Names, since there is a great mod that already renames them, see [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian.
+Keys and Propylon indexes are other items in dire need of renaming, but  they are not included in Better Sorting Names, since there's a mod for  that already, see [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954) and[ Propylon Index Renamer](https://www.nexusmods.com/morrowind/mods/49941) by Necrolesian.
 
 ### Renamed Items:
 
