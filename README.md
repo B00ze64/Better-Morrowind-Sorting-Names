@@ -36,6 +36,9 @@ Better Sorting Names will rename the following categories of items, and each cat
 - [Clothiers of Vvardenfell](https://www.nexusmods.com/morrowind/mods/50007) (a lot of items here too).
 - [Morrowind Public Library](https://www.nexusmods.com/morrowind/mods/17379) (the Tea's [potions]).
 - [Abot's Water Life](https://www.nexusmods.com/morrowind/mods/42417) (A few items).
+- [Hunter's Mark - A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656).
+- [Area Effect Arrows](https://www.nexusmods.com/morrowind/mods/42989) (from Bethesda).
+- [An Issue Of Thrust](https://www.nexusmods.com/morrowind/mods/44650).
 - And any other mod I use...
 
 ## Opening a Github Request/Issue

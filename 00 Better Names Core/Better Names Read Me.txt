@@ -25,9 +25,11 @@ candidates are Potions, which now group by Effect and not by Quality (if you
 decide to enable this). Soulgems, and Clothing, especially from Clothiers of
 Vvardenfell, also benefit greatly.
 
-Keys is another item in dire need of renaming, but they are not included in
-Better Sorting Names, since there is a great mod that already renames them, see
-Consistent Keys https://www.nexusmods.com/morrowind/mods/47954 by Necrolesian.
+Keys and Propylon indexes are other items in dire need of renaming, but  they
+are not included in Better Sorting Names, since there's a mod for  that already,
+see [Consistent Keys](https://www.nexusmods.com/morrowind/mods/47954) and
+[Propylon Index Renamer](https://www.nexusmods.com/morrowind/mods/49941) by
+Necrolesian.
 
 Better Sorting Names will rename the following categories of items, and each
 category can be turned Off/On in the Mod Config Menu:
@@ -55,6 +57,9 @@ The mod supports items from:
 - Clothiers of Vvardenfell (a lot of items here too).
 - Morrowind Public Library (the Tea's [potions]).
 - Abot's Water Life (A few items).
+- Hunter's Mark - A Marksman Mod.
+- Area Effect Arrows.
+- An Issue Of Thrust.
 - And any other mod I use...
 
 Since I do not use a lot of "New Items" mods, there is a lot that is not covered
