@@ -1,6 +1,6 @@
-------------------------------
-Better Sorting Names MWSE v2.0
-------------------------------
+--------------------------------
+Better Sorting Names MWSE v2.0.1
+--------------------------------
 
 By Booze (B00ze64) 2021-07
 
@@ -60,6 +60,7 @@ The mod supports items from:
 - Hunter's Mark - A Marksman Mod.
 - Area Effect Arrows.
 - An Issue Of Thrust.
+- Crossbows Enhanced-48586
 - And any other mod I use...
 
 Since I do not use a lot of "New Items" mods, there is a lot that is not covered
