@@ -964,4 +964,11 @@ return {
 {ID="wh_ebony_bolt", name="Bolt Ebony"},
 {ID="wh_dwemer_bolt", name="Bolt Dwemer"},
 {ID="orcish trapper bolt", name="Bolt Uftum Trapper"},
+{ID="steel pike", name="Pike Steel"},
+{ID="chitin pike", name="Pike Chitin"},
+{ID="glass pike", name="Pike Glass"},
+{ID="ebony pike", name="Pike Ebony"},
+{ID="iron pike", name="Pike Iron"},
+{ID="dwemer pike", name="Pike Dwarven"},
+{ID="daedric pike", name="Pike Daedric"},
 }

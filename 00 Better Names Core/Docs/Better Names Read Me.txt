@@ -1,8 +1,8 @@
 --------------------------------
-Better Sorting Names MWSE v2.0.1
+Better Sorting Names MWSE v2.0.2
 --------------------------------
 
-By Booze (B00ze64) 2021-07
+By Booze (B00ze64) 2021-08
 
 	B00ze64@zoho.com (best)
 	B00ze64@hotmail.com (if you must)
@@ -61,6 +61,7 @@ The mod supports items from:
 - Area Effect Arrows.
 - An Issue Of Thrust.
 - Crossbows Enhanced-48586
+- More Useful Spears-42450
 - And any other mod I use...
 
 Since I do not use a lot of "New Items" mods, there is a lot that is not covered

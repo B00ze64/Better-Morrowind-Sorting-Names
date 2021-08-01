@@ -1,4 +1,4 @@
-# Better Morrowind Sorting Names v2.0.1
+# Better Morrowind Sorting Names v2.0.2
 ### Rename Armor/Potions/etc for better inventory ordering
 
 Find this mod on Nexus as [Better Sorting Names MWSE](https://www.nexusmods.com/morrowind/mods/50018).
@@ -40,6 +40,7 @@ Better Sorting Names will rename the following categories of items, and each cat
 - [Area Effect Arrows](https://www.nexusmods.com/morrowind/mods/42989) (from Bethesda).
 - [An Issue Of Thrust](https://www.nexusmods.com/morrowind/mods/44650).
 - [Crossbows Enhanced](https://www.nexusmods.com/morrowind/mods/48586).
+- [More Useful Spears](https://www.nexusmods.com/morrowind/mods/42450).
 - And any other mod I use...
 
 ## Opening a Github Request/Issue
