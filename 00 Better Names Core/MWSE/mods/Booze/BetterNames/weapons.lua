@@ -1255,4 +1255,5 @@ return {
 {ID="_DEG_AF05_WeaponDagUni", name="Blade of Blinding Acrobatics"},
 {ID="_DEG_AF06_WeaponAxeUni", name="Axe War of Fiery Personality"},
 {ID="_DEG_AF08_WeapSkeGua02", name="Sword Sarethi Ancestral Blade"},
+{ID="POT_GhostSword", name="TwoHanded Velothi Ghost Sword"},
 }

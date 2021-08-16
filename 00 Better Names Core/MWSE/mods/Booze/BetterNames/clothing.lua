@@ -1089,4 +1089,7 @@ return {
 {ID="DEG_OJAI07_Amulet_Re04", name="Charm Lucky"},
 {ID="_DEG_AF04_AmuUni03", name="Amulet Belvravel Ancestral"},
 {ID="_DEG_AF05_AmuletQu01", name="Amulet Wulfharth Cottage"},
+{ID="POT_FamilyRing1", name="Ring Sedno Erithan's"},
+{ID="POT_FamilyRing2", name="Ring Sedno Salythyr's"},
+{ID="POT_FamilyRing3", name="Ring Sedno Nededrisa's"},
 }
