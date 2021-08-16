@@ -3,9 +3,11 @@
 
 By Booze (B00ze64) 2021-08
 
-​	B00ze64@zoho.com (best)
-​	B00ze64@hotmail.com (if you must)
-​	Note that hotmail spam filters suck mail like a blackhole...
+1. B00ze64@zoho.com (best)
+2. B00ze64@hotmail.com (if you must)
+   Note that hotmail spam filters suck mail like a blackhole...
+
+
 
 Find this mod on Nexus as [Better Sorting Names MWSE](https://www.nexusmods.com/morrowind/mods/50018).
 
