@@ -6,7 +6,7 @@ local confTable = config:get()
 
 local sideBarDefault =
 [[
-Welcome to Better Sorting Names.
+Welcome to Better Sorting Names v2.1.
 
 Use the configuration menu to select which items get renamed, and decide if you want to cheat a little as well. Note that you need to restart the game whenever you change the settings for them to apply.
 
@@ -23,6 +23,7 @@ if not confTable then
 	DoPotionNamesPotion = false,
 	DoPotionIcons = true,
 	DoSoulgemNames = true,
+	DoToolNames = true,
 	DoWeaponNames = true,
 	DoHighQualityTools = true,
 	DoTrainingBookNames = false,
@@ -56,13 +57,13 @@ local function registerConfig()
 
     settingsPage:createOnOffButton{
         label = "Rename Potions by Effect?",
-        description = "Potions of the same effect will sort together, i.e. Exclusive Potion of Fortify Luck > Fortify Luck Exclusive.",
+        description = "Potions of the same effect will sort together and by quality, from cheapest to most expensive, i.e. Exclusive Potion of Fortify Luck > Fortify Luck Select.",
         variable = mwse.mcm.createTableVariable{ id = "DoPotionNamesEffect", table = confTable }
     }
 
     settingsPage:createOnOffButton{
         label = "Rename Potions with Potion...?",
-        description = "Potion names all start with 'Potion' and then the effect name, and finally the quality. So potions of the same effect will sort together, but also, all potions will sort together since they all start with Potion, i.e. Exclusive Potion of Fortify Luck > Potion Fortify Luck Exclsv (this uses abreviated quality names as Morrowind limits item names to 31 characters).",
+        description = "Potion names all start with 'Potion' and then the effect name, and finally the quality. So potions of the same effect will sort together and by quality, but also, all potions will sort together since they all start with Potion, i.e. Exclusive Potion of Fortify Luck > Potion Fortify Luck Select.",
         variable = mwse.mcm.createTableVariable{ id = "DoPotionNamesPotion", table = confTable }
     }
 
@@ -74,13 +75,19 @@ local function registerConfig()
 
     settingsPage:createOnOffButton{
         label = "Rename SoulGems?",
-        description = "All soulgems will sort together, i.e. Soulgem Greater.",
+        description = "All soulgems will sort together and by quality, i.e. Soulgem IV Greater.",
         variable = mwse.mcm.createTableVariable{ id = "DoSoulgemNames", table = confTable }
     }
 
     settingsPage:createOnOffButton{
+        label = "Rename Tools?",
+        description = "Lockpicks, Probes, Repair and Alchemist's tools will sort by quality.",
+        variable = mwse.mcm.createTableVariable{ id = "DoToolNames", table = confTable }
+    }
+
+    settingsPage:createOnOffButton{
         label = "Rename Weapons?",
-        description = "Weapons will sort by kind (i.e. Longsword Iron) and ammo will sort together (i.e. Arrow of Cruel Viper).",
+        description = "Weapons will sort by kind (i.e. Sword Long Iron) and ammo will sort together (i.e. Arrow of Cruel Viper).",
         variable = mwse.mcm.createTableVariable{ id = "DoWeaponNames", table = confTable }
     }
 

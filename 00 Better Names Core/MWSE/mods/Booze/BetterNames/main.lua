@@ -1,4 +1,4 @@
--- Better Names v2.0 by Booze (B00ze64)
+-- Better Names v2.1 by Booze (B00ze64)
 -- Potion Icons code by Greatness7
 -- MCM code by Merlord
 
@@ -79,6 +79,11 @@ local function initialized(e)
 	if (config.DoWeaponNames) then
 
 		ChangeItemsProperty("Weapons","weapons","name")
+	end
+
+	if (config.DoToolNames) then
+
+		ChangeItemsProperty("Tools","tools","name")
 	end
 
 	if (config.DoHighQualityTools) then
