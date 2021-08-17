@@ -411,7 +411,7 @@ return {
 {ID="T_Imp_Drink_WineSweet", name="Bottled Wine Sweet"},
 {ID="T_Nor_Drink_Fyrg_01", name="Bottle of Fyrg"},
 {ID="T_Nor_Drink_Bodja_01", name="Bottle of Bodja"},
-{ID="T_Com_Potion_DragonBlood", name="Bottle of Dragon's Blood"},
+{ID="T_Com_Potion_DragonBlood", name="Potion of Dragon's Blood"},
 {ID="T_De_Drink_GuarMilk_01", name="Bottled Guar Milk"},
 {ID="AB_dri_Musa", name="Bottle of Musa"},
 {ID="AB_dri_GuarMilk", name="Bottle of Guar Milk"},
@@ -451,4 +451,7 @@ return {
 {ID="NOM_wine_08", name="Bottled Wine Cheap"},
 {ID="NOM_wine_09", name="Bottled Wine Moon's Tear"},
 {ID="MI_absinthe", name="Bottle of Absinthe"},
+{ID="ABtv_pot_CureParalysis", name="Potion Cure Paralysis by Aryon"},
+{ID="ABtv_pot_CureBlightMMCure", name="Potion Cure Blight Disease"},
+{ID="ABtv_dri_SheinVintage", name="Bottle of Vintage Wine"},
 }

@@ -1092,4 +1092,7 @@ return {
 {ID="POT_FamilyRing1", name="Ring Sedno Erithan's"},
 {ID="POT_FamilyRing2", name="Ring Sedno Salythyr's"},
 {ID="POT_FamilyRing3", name="Ring Sedno Nededrisa's"},
+{ID="ABtv_c_FireBarrierAmulet", name="Amulet of Fire Barrier"},
+{ID="ABtv_c_LesserFireShieldRing", name="Ring Lesser of Shielding Flames"},
+{ID="ABtv_c_EbonyCharismaRing", name="Ring Ebony of Charisma"},
 }
