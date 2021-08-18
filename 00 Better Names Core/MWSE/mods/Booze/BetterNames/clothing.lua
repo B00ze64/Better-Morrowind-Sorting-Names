@@ -1095,4 +1095,6 @@ return {
 {ID="ABtv_c_FireBarrierAmulet", name="Amulet of Fire Barrier"},
 {ID="ABtv_c_LesserFireShieldRing", name="Ring Lesser of Shielding Flames"},
 {ID="ABtv_c_EbonyCharismaRing", name="Ring Ebony of Charisma"},
+{ID="ABtm_c_RedJinxRing", name="Ring Jinx Red"},
+{ID="ABtm_c_WhiteJinxRing", name="Ring Jinx White"},
 }

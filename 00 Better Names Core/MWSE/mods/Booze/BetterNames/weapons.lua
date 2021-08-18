@@ -1261,4 +1261,5 @@ return {
 {ID="ABtv_w_AcidSpear", name="Spear Chitin Acid Etched"},
 {ID="ABtv_w_VolatileFlameArrow", name="Arrow Volatile of Flame"},
 {ID="ABtv_w_BlackSword", name="Sword Blade of Eminent Ember"},
+{ID="ABtm_w_GoldStClaymore", name="Claymore Mindcleaver"},
 }
