@@ -111,7 +111,7 @@ return {
 {ID="nordic broadsword", name="Sword Broad Nordic"},
 {ID="Iron Long Spear", name="Spear Iron Long"},
 {ID="lugrub's axe", name="Axe Lugrub's"},
-{ID="steel blade of heaven", name="Short Steel Blade of Heaven"},
+{ID="steel blade of heaven", name="Short Blade of Heaven Steel"},
 {ID="ebony wizard's staff", name="Staff Wizard's"},
 {ID="steel jinkblade of the aegis", name="Short Jinkblade Steel of Aegis"},
 {ID="fiend tanto", name="Short Tanto Fiend"},
