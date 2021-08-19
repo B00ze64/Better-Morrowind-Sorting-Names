@@ -1,4 +1,4 @@
-# Better Morrowind Sorting Names v2.1
+# Better Morrowind Sorting Names v2.2
 ### Rename Armor/Potions/etc for better inventory ordering
 
 By Booze (B00ze64) 2021-08
@@ -34,6 +34,12 @@ Keys and Propylon indexes are other items in dire need of renaming, but  they ar
 
 - And I was extremely aggressive with weapon prefixes; now only a few uniques will not sort together: Short blades now have the Blade prefix, Long blades have the Sword prefix, Two-Handed blades have the TwoHanded prefix when the 31 char limit permitted, i.e. Claymores and Scythes (enchanted) could not accommodate the prefix. Axes have the Axe prefix, Two-Handed axes have the Battle Axe prefix (which should place them right after one-handed axes). Blunt one-handed weapons have the Blunt prefix (e.g. Blunt Mace Steel) and blunt two-handed weapons are Warhammers, War Maces and War Mauls, so they should sort together. Bows are all prefixed with Bow and crossbows with Crossbow, which should make them group together. Throwing weapons all have the Thrown prefix (some of those enchanted ones could not accommodate the Throwing prefix) but I had to drop the "of" on a number of them to fit the 31 characters limit (e.g. Thrown Star of Cruel PoisonBloom is too long). Finally, Spears all have the Spear prefix, including Halberds (not ideal, but this way they all group together). Bound weapons still retain the Bound prefix. It's not perfect, but all the weapons sort by kind a lot better now.
 
+### Version 2.2
+
+- Added a few more mods.
+
+- And while I liked prefixing daggers with "Blade," I think "Short" is a better prefix for shot blades in general. It does not work super-well with daggers since a short dagger would be nothing more than a toothpick, but if we abstract the prefix as a weapon-type in our minds, it's not so bad. And Short Sword is far better than Blade Sword. So I've changed the prefix for short blades to Short. This means I've switched some of those enchanted ones (e.g. Viperblade) from Daggers back to Blades, which respects the original name better (e.g. Short Blade of Viper).
+
 
 ### Renamed Items:
 
@@ -68,11 +74,15 @@ Better Sorting Names will rename the following categories of items, and each cat
 - [Clothiers of Vvardenfell](https://www.nexusmods.com/morrowind/mods/50007) (a lot of items here too).
 - [Constance Thief Companion](https://www.nexusmods.com/morrowind/mods/1457).
 - [Crossbows Enhanced](https://www.nexusmods.com/morrowind/mods/48586).
+- [Frozen in Time-50077](https://www.nexusmods.com/morrowind/mods/50077).
 - [Hunter's Mark - A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656).
+- [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739).
 - [Moonlight on the Odai River](https://www.nexusmods.com/morrowind/mods/46822).
 - [More Useful Spears](https://www.nexusmods.com/morrowind/mods/42450).
 - [Morrowind Public Library](https://www.nexusmods.com/morrowind/mods/17379) (the Tea's [potions]).
 - [Necessities of Morrowind](https://mw.modhistory.com/download-p1-iAll-37) (Potions).
+- [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075).
+- [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177).
 - [Of justice and innocence](https://www.nexusmods.com/morrowind/mods/34046).
 - [White Wolf Of The Lokken Mountain](https://www.nexusmods.com/morrowind/mods/27306).
 - And any other mod I use...
