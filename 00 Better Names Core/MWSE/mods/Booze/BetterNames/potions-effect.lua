@@ -455,4 +455,5 @@ return {
 {ID="ABtv_pot_CureParalysis", name="Cure Paralysis by Aryon"},
 {ID="ABtv_pot_CureBlightMMCure", name="Cure Blight Disease"},
 {ID="ABtv_dri_SheinVintage", name="Bottle of Vintage Wine"},
+{ID="AB_dri_Sillapi", name="Bottle of Sillapi"},
 }

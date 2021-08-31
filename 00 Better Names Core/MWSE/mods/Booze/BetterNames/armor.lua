@@ -690,4 +690,6 @@ return {
 {ID="aa_Left Gauntlet Thorjon2", name="Gauntlet of Thorjan Bjorg Left"},
 {ID="aa_Right Gauntlet Thorjon2", name="Gauntlet of Thorjan Bjorg Right"},
 {ID="aa_GunderQuiver", name="Nordic Leather Quiver Gunder's"},
+{ID="AB_a_LeatherHat", name="Hat Leather"},
+{ID="AB_c_DwrvHat", name="Hat Dwemer"},
 }
