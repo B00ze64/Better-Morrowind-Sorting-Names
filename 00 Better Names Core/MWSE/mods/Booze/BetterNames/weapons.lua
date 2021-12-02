@@ -992,6 +992,7 @@ return {
 {ID="AB_w_ImpKatana", name="Sword Katana Imperial"},
 {ID="AB_w_ImpBow", name="Bow Short Imperial"},
 {ID="AB_w_ImpSpear", name="Spear Imperial"},
+{ID="AB_w_ImpWakizashi", name="Short Wakizashi Imperial"},
 {ID="AB_w_EbonyGlaive", name="Spear Glaive Ebony"},
 {ID="AB_w_BoneSaw", name="Sword Bonesaw"},
 {ID="AB_w_MarkingKnife", name="Knife Marking"},
